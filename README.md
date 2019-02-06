@@ -1,2 +1,2 @@
 # HelloWorld
-Assignment 1 for Data Structures and Algorithms cousrse
+Assignment 1 for Data Structures and Algorithms course
